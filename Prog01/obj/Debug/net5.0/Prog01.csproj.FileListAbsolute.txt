@@ -1,0 +1,16 @@
+E:\GIT\lesson01\Prog01\bin\Debug\net5.0\Prog01.exe
+E:\GIT\lesson01\Prog01\bin\Debug\net5.0\Prog01.deps.json
+E:\GIT\lesson01\Prog01\bin\Debug\net5.0\Prog01.runtimeconfig.json
+E:\GIT\lesson01\Prog01\bin\Debug\net5.0\Prog01.runtimeconfig.dev.json
+E:\GIT\lesson01\Prog01\bin\Debug\net5.0\Prog01.dll
+E:\GIT\lesson01\Prog01\bin\Debug\net5.0\ref\Prog01.dll
+E:\GIT\lesson01\Prog01\bin\Debug\net5.0\Prog01.pdb
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\Prog01.csproj.AssemblyReference.cache
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\Prog01.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\Prog01.AssemblyInfoInputs.cache
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\Prog01.AssemblyInfo.cs
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\Prog01.csproj.CoreCompileInputs.cache
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\Prog01.dll
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\ref\Prog01.dll
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\Prog01.pdb
+E:\GIT\lesson01\Prog01\obj\Debug\net5.0\Prog01.genruntimeconfig.cache
